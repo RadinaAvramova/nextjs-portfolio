@@ -24,12 +24,12 @@ const HeroSection = () => {
               sequence={[
                 "Radina",
                 1000,
-                "Web Developer",
+                "Front-End Developer",
                 1000,
-                "Mobile Developer",
-                1000,
-                "UI/UX Designer",
-                1000,
+                // "Mobile Developer",
+                // 1000,
+                // "UI/UX Designer",
+                // 1000,
               ]}
               wrapper="span"
               speed={50}
@@ -37,8 +37,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            {/* Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, */}
-            {/* voluptuous. */}
+          A motivated person interested in programming. I love challenges and exploring the
+          unknown.
           </p>
           <div>
             <Link

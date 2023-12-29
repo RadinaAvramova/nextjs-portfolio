@@ -17,7 +17,6 @@ const TAB_DATA = [
         <li>Express</li>
         <li>Node.js</li>
         <li>PostgreSQL</li>
-        {/* <li>Sequelize</li> */}
       </ul>
     ),
   },
