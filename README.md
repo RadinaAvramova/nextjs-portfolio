@@ -24,4 +24,8 @@ The following dependencies are required for this project:
 - TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
 - Resend: Resend is the email API for developers.
 
+## Application image :
+![2](https://github.com/RadinaAvramova/nextjs-portfolio/assets/99686592/8ef2f04a-46d7-4902-84ef-7519622c200f)
+
+
 
