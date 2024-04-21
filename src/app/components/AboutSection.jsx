@@ -25,7 +25,6 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        {/* <li>Fullstack Academy of Code</li> */}
         <li>Software University - Sofia, Bulgaria</li>
       </ul>
     ),
@@ -37,11 +36,14 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>Programming Basics with JavaScript</li>
         <li>Programming Fundamentals with JavaScript</li>
-        <li>JS Applications</li>
+        <li>JS Advanced</li>
         <li>JS Applications</li>
         <li>JS Back-End</li>
         <li>React</li>
         <li>TypeScript</li>
+        <li>Angular</li>
+        <li>Containers and Cloud</li>
+        <li>Software Engineering and DevOps</li>
       </ul>
     ),
   },
